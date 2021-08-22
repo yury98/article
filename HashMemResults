@@ -1,0 +1,1155 @@
+
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9863616   8599148  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9863620   8599144  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9863620   8599144  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9863624   8599140  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9863624   8599140  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9863624   8599140  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9863624   8599140  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9863624   8599140  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9863624   8599140  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9863624   8599140  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9863624   8599140  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9863772   8598992  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9863772   8598992  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9864052   8598712  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9864524   8598240  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9865020   8597744  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9865500   8597264  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9866028   8596736  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9866516   8596248  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9866948   8595816  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9867444   8595320  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9867916   8594848  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9868548   8594216  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9869044   8593720  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9869532   8593232  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9870004   8592760  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9870492   8592272  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9870956   8591808  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9871448   8591316  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9871936   8590828  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9872624   8590140  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9873224   8589540  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9873704   8589060  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9874184   8588580  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9874648   8588116  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9875104   8587660  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9875560   8587204  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9876024   8586740  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9876480   8586284  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9876960   8585804  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9877448   8585316  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9877944   8584820  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9878400   8584364  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9878896   8583868  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9879388   8583376  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9879884   8582880  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9880372   8582392  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9881084   8581680  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9881780   8580984  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9882404   8580360  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9882900   8579864  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9883388   8579376  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9883868   8578896  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9884364   8578400  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9884852   8577912  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9885356   8577408  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9885840   8576924  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9886336   8576428  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9886832   8575932  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9887320   8575444  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9887816   8574948  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9888320   8574444  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9888828   8573936  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9889316   8573448  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9889820   8572944  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9890300   8572464  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9890804   8571960  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9891316   8571448  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9891812   8570952  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9892292   8570472  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9892796   8569968  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9893300   8569464  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9893804   8568960  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9894292   8568472  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9894788   8567976  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9895284   8567480  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9895788   8566976  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9896292   8566472  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9896780   8565984  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9897316   8565448  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9898116   8564648  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9898868   8563896  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9899516   8563248  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9900188   8562576  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9900752   8562012  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9901288   8561476  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9901792   8560972  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9902320   8560444  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9902824   8559940  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9903320   8559444  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9903808   8558956  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9904312   8558452  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9904792   8557972  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9905296   8557468  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9905808   8556956  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9906296   8556468  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9906800   8555964  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9907296   8555468  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9907728   8555036  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9908224   8554540  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9908720   8554044  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9909224   8553540  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9909720   8553044  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9910216   8552548  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9910712   8552052  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9911176   8551588  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9911680   8551084  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9912168   8550596  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9912672   8550092  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9913168   8549596  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9913656   8549108  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9914160   8548604  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9914644   8548120  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9915148   8547616  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9915636   8547128  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9916132   8546632  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9916620   8546144  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9917124   8545640  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9917604   8545160  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9918092   8544672  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9918612   8544152  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9919112   8543652  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9919608   8543156  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9920120   8542644  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9920608   8542156  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9921120   8541644  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9921632   8541132  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9922144   8540620  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9922656   8540108  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9923136   8539628  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9923632   8539132  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9924136   8538628  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9924640   8538124  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9925120   8537644  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9925632   8537132  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9926144   8536620  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9926652   8536112  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9927156   8535608  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9927660   8535104  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9928164   8534600  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9928672   8534092  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9929176   8533588  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9929680   8533084  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9930160   8532604  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9930664   8532100  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9931440   8531324  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9932144   8530620  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9932952   8529812  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9933632   8529132  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9934376   8528388  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9935168   8527596  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9935816   8526948  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9936520   8526244  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9937152   8525612  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9937776   8524988  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9938320   8524444  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9938864   8523900  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9939368   8523396  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9939816   8522948  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9940296   8522468  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9940792   8521972  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9941312   8521452  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9941816   8520948  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9942320   8520444  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9942808   8519956  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9943312   8519452  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9943800   8518964  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9944296   8518468  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9944804   8517960  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9945324   8517440  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9945836   8516928  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9946348   8516416  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9946852   8515912  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9947356   8515408  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9947860   8514904  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9948372   8514392  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9948820   8513944  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9949308   8513456  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9949788   8512976  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9950292   8512472  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9950788   8511976  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9951272   8511492  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9951776   8510988  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9952272   8510492  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9952736   8510028  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9953240   8509524  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9953704   8509060  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9954176   8508588  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9954648   8508116  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9955128   8507636  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9955616   8507148  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9956096   8506668  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9956592   8506172  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9957072   8505692  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9957584   8505180  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9958104   8504660  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9958916   8503848  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9959372   8503392  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9959860   8502904  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9960340   8502424  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9960828   8501936  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9961316   8501448  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9961812   8500952  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9962308   8500456  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9962788   8499976  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9963276   8499488  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9963764   8499000  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9964252   8498512  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9964740   8498024  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9965220   8497544  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9965700   8497064  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9966188   8496576  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9966652   8496112  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9967140   8495624  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9967612   8495152  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9968108   8494656  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9968596   8494168  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9969084   8493680  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9969508   8493256  54% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9969988   8492776  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9970476   8492288  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9970956   8491808  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9971444   8491320  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9971936   8490828  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9972392   8490372  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9972864   8489900  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9973352   8489412  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9973928   8488836  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9974592   8488172  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9975072   8487692  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9975560   8487204  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9976056   8486708  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9976536   8486228  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9977016   8485748  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9977496   8485268  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9977976   8484788  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9978440   8484324  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9978920   8483844  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9979392   8483372  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9979864   8482900  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9980364   8482400  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9980820   8481944  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9981316   8481448  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9981812   8480952  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9982292   8480472  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9982780   8479984  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9983276   8479488  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9983780   8478984  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9984268   8478496  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9984756   8478008  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9985236   8477528  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9985712   8477052  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9986192   8476572  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9986672   8476092  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9987160   8475604  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9987656   8475108  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9988120   8474644  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9988600   8474164  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9989084   8473680  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9989564   8473200  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9990044   8472720  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9990524   8472240  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9991028   8471736  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9991508   8471256  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9991980   8470784  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9992468   8470296  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9992956   8469808  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9993444   8469320  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9993940   8468824  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9994412   8468352  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9994908   8467856  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9995372   8467392  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9995836   8466928  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9996316   8466448  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9996804   8465960  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9997300   8465464  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9997788   8464976  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9998364   8464400  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9999036   8463728  55% /
+Filesystem                        1K-blocks    Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 9999760   8463004  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10000448   8462316  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10001104   8461660  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10001920   8460844  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10002712   8460052  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10003392   8459372  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10004096   8458668  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10004848   8457916  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10005584   8457180  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10006248   8456516  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10006888   8455876  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10007576   8455188  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10008184   8454580  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10008896   8453868  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10009464   8453300  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10010088   8452676  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10010664   8452100  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10011200   8451564  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10011808   8450956  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10012320   8450444  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10012844   8449920  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10013364   8449400  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10013836   8448928  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10014316   8448448  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10014796   8447968  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10015316   8447448  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10015812   8446952  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10016300   8446464  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10016800   8445964  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10017304   8445460  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10017808   8444956  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10018312   8444452  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10018808   8443956  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10019312   8443452  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10019808   8442956  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10020288   8442476  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10020760   8442004  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10021264   8441500  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10021760   8441004  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10022272   8440492  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10022752   8440012  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10023784   8438980  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10024872   8437892  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10026104   8436660  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10027032   8435732  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10028232   8434532  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10029456   8433308  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10030224   8432540  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10031336   8431428  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10032544   8430220  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10033712   8429052  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10034208   8428556  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10035152   8427612  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10036336   8426428  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10037520   8425244  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10038740   8424024  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10039948   8422816  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10041180   8421584  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10042372   8420392  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10043508   8419256  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10044572   8418192  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10045036   8417728  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10045516   8417248  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10046108   8416656  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10047316   8415448  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10048540   8414224  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10049748   8413016  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10048772   8413992  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10049268   8413496  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10049756   8413008  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10050236   8412528  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10050724   8412040  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10051212   8411552  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10051692   8411072  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10052188   8410576  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10052676   8410088  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10053172   8409592  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10053652   8409112  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10054140   8408624  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10054620   8408144  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10055128   8407636  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10055608   8407156  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10056080   8406684  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10056580   8406184  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10057084   8405680  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10057564   8405200  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10058068   8404696  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10058564   8404200  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10059060   8403704  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10059556   8403208  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10060060   8402704  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10060556   8402208  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10061044   8401720  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10061548   8401216  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10062044   8400720  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10062532   8400232  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10063028   8399736  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10063516   8399248  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10064004   8398760  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10064492   8398272  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10064980   8397784  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10065476   8397288  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10065948   8396816  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10066436   8396328  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10066924   8395840  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10067412   8395352  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10067900   8394864  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10068396   8394368  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10068876   8393888  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10069372   8393392  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10069864   8392900  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10070352   8392412  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10070824   8391940  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10071312   8391452  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10071816   8390948  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10072304   8390460  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10072800   8389964  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10073304   8389460  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10073792   8388972  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10074288   8388476  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10074704   8388060  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10075208   8387556  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10075712   8387052  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10076152   8386612  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10076664   8386100  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10077168   8385596  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10077680   8385084  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10078184   8384580  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10078688   8384076  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10079184   8383580  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10079688   8383076  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10080192   8382572  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10080696   8382068  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10081184   8381580  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10081704   8381060  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10082184   8380580  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10082648   8380116  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10083128   8379636  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10083636   8379128  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10084120   8378644  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10084616   8378148  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10085112   8377652  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10085608   8377156  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10086120   8376644  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10086608   8376156  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10087112   8375652  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10087624   8375140  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10088128   8374636  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10088632   8374132  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10089120   8373644  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10089608   8373156  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10090104   8372660  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10090584   8372180  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10091096   8371668  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10091592   8371172  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10092096   8370668  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10092600   8370164  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10093088   8369676  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10093600   8369164  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10094104   8368660  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10094592   8368172  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10095088   8367676  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10095576   8367188  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10096072   8366692  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10096568   8366196  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10097084   8365680  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10097580   8365184  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10098092   8364672  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10098564   8364200  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10099052   8363712  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10099540   8363224  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10100028   8362736  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10100492   8362272  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10100964   8361800  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10101420   8361344  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10101908   8360856  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10102404   8360360  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10102884   8359880  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10103364   8359400  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10103844   8358920  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10104244   8358520  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10104716   8358048  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10105212   8357552  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10105684   8357080  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10106156   8356608  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10106564   8356200  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10106972   8355792  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10107420   8355344  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10107900   8354864  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10108388   8354376  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10108876   8353888  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10109356   8353408  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10109844   8352920  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10110328   8352436  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10110800   8351964  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10111288   8351476  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10111760   8351004  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10112248   8350516  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10112716   8350048  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10113188   8349576  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10113668   8349096  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10114156   8348608  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10114612   8348152  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10115100   8347664  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10115588   8347176  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10116092   8346672  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10116580   8346184  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10117068   8345696  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10117564   8345200  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10118076   8344688  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10118532   8344232  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10119004   8343760  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10119468   8343296  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10119932   8342832  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10120404   8342360  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10120884   8341880  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10121364   8341400  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10122188   8340576  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10122652   8340112  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10123124   8339640  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10123608   8339156  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10124088   8338676  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10124584   8338180  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10125072   8337692  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10125576   8337188  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10126064   8336700  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10126552   8336212  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10127016   8335748  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10127504   8335260  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10127992   8334772  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10128448   8334316  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10128920   8333844  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10129384   8333380  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10129864   8332900  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10130360   8332404  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10130840   8331924  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10131344   8331420  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10131840   8330924  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10132320   8330444  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10132808   8329956  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10133216   8329548  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10133696   8329068  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10134208   8328556  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10134712   8328052  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10135216   8327548  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10135712   8327052  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10136216   8326548  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10136720   8326044  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10137212   8325552  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10137724   8325040  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10138220   8324544  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10138716   8324048  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10139220   8323544  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10139684   8323080  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10140196   8322568  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10140700   8322064  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10141180   8321584  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10141668   8321096  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10142152   8320612  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10142664   8320100  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10143144   8319620  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10143656   8319108  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10144152   8318612  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10144648   8318116  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10145160   8317604  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10145680   8317084  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10146408   8316356  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10147296   8315468  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10148152   8314612  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10148952   8313812  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10149864   8312900  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10150656   8312108  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10151408   8311356  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10152152   8310612  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10152832   8309932  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10153604   8309160  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10154316   8308448  55% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10154972   8307792  56% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10155764   8307000  56% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10156524   8306240  56% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10157236   8305528  56% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10158028   8304736  56% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10158788   8303976  56% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10159652   8303112  56% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10160380   8302384  56% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10161220   8301544  56% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10161948   8300816  56% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10162732   8300032  56% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10163436   8299328  56% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10164212   8298552  56% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10164884   8297880  56% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10165588   8297176  56% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10165924   8296840  56% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10165924   8296840  56% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10165924   8296840  56% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10165924   8296840  56% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10165924   8296840  56% /
+Filesystem                        1K-blocks     Used Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  19475088 10165924   8296840  56% /
